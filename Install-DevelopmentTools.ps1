@@ -11,4 +11,6 @@ git config --global core.editor "code --wait"
 # Installs components for Docker. - used for application testing
 choco install wsl2
 choco install wsl-ubuntu-2004
+choco install microsoft-windows-terminal
+## Do I need to install wsl-ubuntu-2004 for Docker? It looks like Docker Desktop has its own distribution.
 choco install docker-desktop
