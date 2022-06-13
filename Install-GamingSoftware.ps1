@@ -1,4 +1,6 @@
 choco install steam-client
+# MTG Arena is not available on Chocolatey
+#   https://magic.wizards.com/en/mtgarena
 
 # Installs and configures DOSBox for retro PC gaming.
 choco install dosbox
