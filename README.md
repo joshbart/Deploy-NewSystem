@@ -22,3 +22,4 @@ Over time, I've found a variety of tools that were more or less useful. Some of 
 
 - [Universal USB Installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/). Might be redundant with [Balena Etcher](https://www.balena.io/etcher/).
 - [PuTTYgen](https://www.puttygen.com/). Might be redundant with PowerShell SSH.
+- [TFTPd64](https://pjo2.github.io/tftpd64/). Useful for Cisco device maintenance.
