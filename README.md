@@ -15,3 +15,10 @@ Chocolatey can be installed with a "one-liner" in PowerShell. See [the Chocolate
 
 - Create specific scripts for different software "contexts"
 - Automate DoD certificate and VMware Horizon installation for ANG context
+
+### Potential software applications to include
+
+Over time, I've found a variety of tools that were more or less useful. Some of these have not been included in the current Chocolatey scripts yet, but may be included in the future.
+
+- [Universal USB Installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/). Might be redundant with [Balena Etcher](https://www.balena.io/etcher/).
+- [PuTTYgen](https://www.puttygen.com/). Might be redundant with PowerShell SSH.
